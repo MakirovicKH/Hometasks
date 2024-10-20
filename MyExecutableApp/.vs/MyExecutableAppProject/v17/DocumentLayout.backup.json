@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380DCD1B-1EE9-4BA4-BBA6-D4D5202D7C9B}|MyExecutableApp\\MyExecutableApp.csproj|c:\\users\\admin\\source\\repos\\myexecutableapp\\myexecutableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380DCD1B-1EE9-4BA4-BBA6-D4D5202D7C9B}|MyExecutableApp\\MyExecutableApp.csproj|solutionrelative:myexecutableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380DCD1B-1EE9-4BA4-BBA6-D4D5202D7C9B}|MyExecutableApp\\MyExecutableApp.csproj|c:\\users\\admin\\source\\repos\\myexecutableapp\\myexecutableapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380DCD1B-1EE9-4BA4-BBA6-D4D5202D7C9B}|MyExecutableApp\\MyExecutableApp.csproj|solutionrelative:myexecutableapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFB1DCA-F42D-4BA2-89D8-571649DBE781}|Validator\\Validator.csproj|c:\\users\\admin\\source\\repos\\myexecutableapp\\validator\\validatorforexecutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFB1DCA-F42D-4BA2-89D8-571649DBE781}|Validator\\Validator.csproj|solutionrelative:validator\\validatorforexecutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidatorForExecutable.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\Validator\\ValidatorForExecutable.cs",
+              "RelativeDocumentMoniker": "Validator\\ValidatorForExecutable.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\Validator\\ValidatorForExecutable.cs",
+              "RelativeToolTip": "Validator\\ValidatorForExecutable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:12:42.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\MyExecutableApp\\Person.cs",
+              "RelativeDocumentMoniker": "MyExecutableApp\\Person.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\MyExecutableApp\\Person.cs",
+              "RelativeToolTip": "MyExecutableApp\\Person.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:29:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\MyExecutableApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyExecutableApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MyExecutableApp\\MyExecutableApp\\Program.cs",
+              "RelativeToolTip": "MyExecutableApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:29:01.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
