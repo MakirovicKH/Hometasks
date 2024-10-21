@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Silah məlumatlarını daxil edin:");
-            Console.Write("Darağın güllə tutumu: ");
+            Console.WriteLine("Silah melumatlarini daxil edin:");
+            Console.Write("Darağin güllə tutumu: ");
             int magazineCapacity = int.Parse(Console.ReadLine());
 
-            Console.Write("Daraqdakı güllə sayı: ");
+            Console.Write("Daraqdakı gülle sayi: ");
             int bulletCount = int.Parse(Console.ReadLine());
 
             Console.Write("Atış modu (Single/Automatic): ");
@@ -33,7 +33,7 @@
                 switch (choice)
                 {
                     case 0:
-                        Console.WriteLine($"Darağın güllə tutumu: {weapon.MagazineCapacity}, Güllə sayı: {weapon.BulletCount}, Atış modu: {weapon.FireMode}");
+                        Console.WriteLine($"Darağin gülle tutumu: {weapon.MagazineCapacity}, Gülle sayı: {weapon.BulletCount}, Atis modu: {weapon.FireMode}");
                         break;
                     case 1:
                         weapon.Shoot();

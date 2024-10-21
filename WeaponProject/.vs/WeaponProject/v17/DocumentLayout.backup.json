@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\WeaponProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D76FF206-2A56-409E-9FE4-DA3ACE1569B5}|WeaponProject\\WeaponProject.csproj|c:\\users\\admin\\source\\repos\\weaponproject\\weaponproject\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76FF206-2A56-409E-9FE4-DA3ACE1569B5}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D76FF206-2A56-409E-9FE4-DA3ACE1569B5}|WeaponProject\\WeaponProject.csproj|c:\\users\\admin\\source\\repos\\weaponproject\\weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D76FF206-2A56-409E-9FE4-DA3ACE1569B5}|WeaponProject\\WeaponProject.csproj|solutionrelative:weaponproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeaponProject\\WeaponProject\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponProject\\Weapon.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WeaponProject\\WeaponProject\\Weapon.cs*",
+              "RelativeToolTip": "WeaponProject\\Weapon.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:30:16.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
               "RelativeDocumentMoniker": "WeaponProject\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\WeaponProject\\WeaponProject\\Program.cs",
               "RelativeToolTip": "WeaponProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T19:29:32.317Z",
               "EditorCaption": ""
