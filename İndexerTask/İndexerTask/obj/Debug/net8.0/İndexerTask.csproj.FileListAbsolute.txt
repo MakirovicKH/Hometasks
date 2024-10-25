@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\bin\Debug\net8.0\İndexerTask.exe
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\bin\Debug\net8.0\İndexerTask.deps.json
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\bin\Debug\net8.0\İndexerTask.runtimeconfig.json
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\bin\Debug\net8.0\İndexerTask.dll
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\bin\Debug\net8.0\İndexerTask.pdb
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.AssemblyInfo.cs
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.dll
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\refint\İndexerTask.dll
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.pdb
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\İndexerTask.genruntimeconfig.cache
+C:\Users\admin\source\repos\İndexerTask\İndexerTask\obj\Debug\net8.0\ref\İndexerTask.dll
