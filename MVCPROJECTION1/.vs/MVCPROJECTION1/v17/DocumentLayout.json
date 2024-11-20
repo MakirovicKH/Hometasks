@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\views\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\views\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\models\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|c:\\users\\admin\\source\\repos\\mvcprojection1\\mvcprojection1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5581F09B-F9CF-463B-8949-98C5FFD068AD}|MVCPROJECTION1\\MVCPROJECTION1.csproj|solutionrelative:mvcprojection1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Teacher.cshtml",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Views\\Teacher.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Teacher.cshtml*",
+              "RelativeToolTip": "MVCPROJECTION1\\Views\\Teacher.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:02:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Views\\Group\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Group\\Index.cshtml*",
+              "RelativeToolTip": "MVCPROJECTION1\\Views\\Group\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:01:44.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Views\\Student\\Index.cshtml*",
+              "RelativeToolTip": "MVCPROJECTION1\\Views\\Student\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:00:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\TeacherController.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Controllers\\TeacherController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:49:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\GroupController.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Controllers\\GroupController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:48:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:40:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teachers.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Teachers.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Models\\Teachers.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Teachers.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Models\\Teachers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:37:08.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Group.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Models\\Group.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:36:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Models\\Students.cs*",
+              "RelativeToolTip": "MVCPROJECTION1\\Models\\Students.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:36:05.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPROJECTION1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MVCPROJECTION1\\MVCPROJECTION1\\Program.cs",
+              "RelativeToolTip": "MVCPROJECTION1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:35:07.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

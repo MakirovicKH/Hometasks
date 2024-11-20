@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\MVCPROJECTION1.exe
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\MVCPROJECTION1.deps.json
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\MVCPROJECTION1.runtimeconfig.json
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\MVCPROJECTION1.dll
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\MVCPROJECTION1.pdb
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.AssemblyInfo.cs
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJE.B6DEAF9A.Up2Date
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.dll
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\refint\MVCPROJECTION1.dll
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.pdb
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\MVCPROJECTION1.genruntimeconfig.cache
+C:\Users\admin\source\repos\MVCPROJECTION1\MVCPROJECTION1\obj\Debug\net8.0\ref\MVCPROJECTION1.dll

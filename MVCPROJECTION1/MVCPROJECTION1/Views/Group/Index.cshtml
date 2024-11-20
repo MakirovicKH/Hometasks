@@ -1,0 +1,18 @@
+@model List<Group>
+
+<h2>Groups List</h2>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+    @foreach (var group in Model)
+    {
+        <tr>
+            <td>@group.Id</td>
+            <td>@group.Name</td>
+            <td>@group.Description</td>
+        </tr>
+    }
+</table>
