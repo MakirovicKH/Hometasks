@@ -1,6 +1,8 @@
-﻿namespace PurpleBuzzPr.Models
+﻿using PurpleBuzzPr.Models.Base;
+
+namespace PurpleBuzzPr.Models
 {
-    public class Work
+    public class Work : BaseAuditableEntity
     {
         
         public int Id { get; set; }

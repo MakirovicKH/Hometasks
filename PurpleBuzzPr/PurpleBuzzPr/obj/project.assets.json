@@ -7601,11 +7601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\İş masası\\ZonApp and PurpleBuzz\\Ab205\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\İş masası\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
       "projectName": "PurpleBuzzPr",
-      "projectPath": "C:\\Users\\admin\\OneDrive\\İş masası\\ZonApp and PurpleBuzz\\Ab205\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
+      "projectPath": "C:\\Users\\admin\\OneDrive\\İş masası\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\OneDrive\\İş masası\\ZonApp and PurpleBuzz\\Ab205\\PurpleBuzzPr\\PurpleBuzzPr\\obj\\",
+      "outputPath": "C:\\Users\\admin\\OneDrive\\İş masası\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

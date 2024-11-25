@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GsOFg+vsyzU=",
+  "dgSpecHash": "Yk20Jl3z0aU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\OneDrive\\İş masası\\ZonApp and PurpleBuzz\\Ab205\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\İş masası\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

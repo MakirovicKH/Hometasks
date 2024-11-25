@@ -1,6 +1,8 @@
-﻿namespace PurpleBuzzPr.Models
+﻿using PurpleBuzzPr.Models.Base;
+
+namespace PurpleBuzzPr.Models
 {
-    public class Service
+    public class Service : BaseAuditableEntity
     {
         public int Id { get; set; }
         public string Title { get; set; }
