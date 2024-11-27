@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\models\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,14 +111,6 @@
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\views\\work\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -95,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\purplebuzzpr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\purplebuzzpr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|c:\\users\\admin\\onedrive\\\u0130\u015F masas\u0131\\hometask\\purplebuzzpr\\purplebuzzpr\\migrations\\20241125093009_addtimestampstoyourtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E9D1C73-4D35-4B8F-9895-C530BF5C25DB}|PurpleBuzzPr\\PurpleBuzzPr.csproj|solutionrelative:purplebuzzpr\\migrations\\20241125093009_addtimestampstoyourtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 233,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,44 +154,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PurpleBuzzPr\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T09:32:57.67Z",
+              "WhenOpened": "2024-11-27T07:51:45.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T10:58:00.699Z"
+              "WhenOpened": "2024-11-27T07:51:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:49:56.425Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "RelativeToolTip": "PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T12:07:02.211Z"
+              "WhenOpened": "2024-11-27T07:49:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:49:44.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:45:23.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:42:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T07:51:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:11:57.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:01:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:43:20.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T10:58:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Index.cshtml",
@@ -175,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Controllers\\ServiceController.cs",
@@ -187,7 +334,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:26:47.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "PurpleBuzzPr\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T12:07:02.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "WorkController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Controllers\\WorkController.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Controllers\\WorkController.cs",
@@ -199,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\ViewModels\\Home\\HomeVM.cs",
@@ -211,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -223,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\Service.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Models\\Service.cs",
@@ -235,19 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "PurpleBuzzPr\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T08:42:09.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "BaseAuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\BaseAuditableEntity.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Models\\BaseAuditableEntity.cs",
@@ -259,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "Work.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Models\\Work.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Models\\Work.cs",
@@ -271,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Program.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Program.cs",
@@ -283,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\appsettings.json",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\appsettings.json",
@@ -295,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\ScaffoldingReadMe.txt",
@@ -307,31 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T17:11:57.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:26:47.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Work\\Create.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Work\\Create.cshtml",
@@ -343,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\DAL\\AppDbContext.cs",
@@ -355,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Work\\Index.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Work\\Index.cshtml",
@@ -367,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -379,19 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\WorkController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:01:44.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -403,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -415,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "PurpleBuzzPr.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
               "RelativeDocumentMoniker": "PurpleBuzzPr\\PurpleBuzzPr.csproj",
@@ -433,15 +557,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20241125093009_AddTimestampsToYourTable.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Migrations\\20241125093009_AddTimestampsToYourTable.cs",
-              "RelativeDocumentMoniker": "PurpleBuzzPr\\Migrations\\20241125093009_AddTimestampsToYourTable.cs",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Migrations\\20241125093009_AddTimestampsToYourTable.cs",
-              "RelativeToolTip": "PurpleBuzzPr\\Migrations\\20241125093009_AddTimestampsToYourTable.cs",
+              "DocumentIndex": 11,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzzPr\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\u0130\u015F masas\u0131\\HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PurpleBuzzPr\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T09:30:09.71Z",
+              "WhenOpened": "2024-11-27T07:49:33.965Z",
               "EditorCaption": ""
             },
             {
